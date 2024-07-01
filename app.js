@@ -73,7 +73,6 @@ function generateTextWrting() {
     .then((doneDuration) => {
       return textStays("text", doneDuration + 100);
     });
-
 }
 
 generateTextWrting();
