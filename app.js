@@ -1,6 +1,6 @@
 const TEXT = {
   introduction: "Hi everyone, my name is Kamil.",
-  position: "I am a passionate WebDeveloper.",
+  position: "I am a motivated Junior WebDeveloper.",
 };
 
 function writeText(text, durationInterval, hookId) {
